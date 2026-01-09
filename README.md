@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi I'm Vera 👋
 
-<!--
-**verac0/verac0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🎮 Game designer & coder<br>🏰On a epic adventure to create my own game! <br>✨Powered by Java, Python, and Unity magic<br>🎶 Strumming my way through life with piano and guitar!
