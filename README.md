@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎮 Game designer & coder<br>🏰On a epic adventure to create my own game! <br>✨Powered by Java, Python, and Unity magic<br>🎶 Strumming my way through life with piano and guitar!
+🎮 Game designer & coder<br>🏰On a epic adventure to create my own game! <br>✨Powered by Java, Python, and Unity magic<br>
 
 
 # 💻 Tech Stack:
