@@ -14,4 +14,8 @@
 ![](https://streak-stats.demolab.com/?user=verac0&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=verac0&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="910" height="384" alt="image" src="https://github.com/user-attachments/assets/846ded34-c87d-478a-a232-ca2e106da66f" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=verac0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=verac0&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=verac0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
