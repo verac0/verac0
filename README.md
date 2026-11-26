@@ -15,5 +15,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=verac0&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/verac0/verac0/output/github-contribution-grid-snake-dark.svg)
 
