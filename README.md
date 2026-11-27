@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎮 Game designer & coder<br>✨Powered by Java, Python, and Unity magic<br>
+🎮 Game designer & coder<br>✨Powered by Java, Python, and Unity <br>
 
 
 # 💻 Tech Stack:
